@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.87.2](https://github.com/kunchenguid/no-mistakes/compare/v1.87.1...v1.87.2) (2026-10-04)
+
+
+### Bug Fixes
+
+* **steps:** pin preparation snapshot diff format ([#1314](https://github.com/kunchenguid/no-mistakes/issues/1314)) ([e5a08d4](https://github.com/kunchenguid/no-mistakes/commit/e5a08d4ff6f1f219bd9cba6a7e3c6d0e7271ae46)), closes [#1311](https://github.com/kunchenguid/no-mistakes/issues/1311)
+
 ## [1.87.1](https://github.com/kunchenguid/no-mistakes/compare/v1.87.0...v1.87.1) (2026-10-04)
 
 
